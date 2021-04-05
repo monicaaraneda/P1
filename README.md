@@ -2,7 +2,7 @@
 [13126] PROYECTO DE INGENIERÍA DE SOFTWARE
 
 
-Proyectos De Adobe XD para la realización de prototipos de software. Paginas Web, Aplicaciones móviles y de escritorio. Notas De Calase y Ejercicios
+Proyectos De Adobe XD para la realización de prototipos de software. Paginas Web, Aplicaciones móviles y de escritorio. Notas De Clase y Ejercicios
 
 Prototipos realizados en adobe XD.
 
